@@ -1,4 +1,4 @@
 HelloWorld
 ==========
 
-[MyPC] Hello from my pc.
+[MASTER] Hello from my pc.
